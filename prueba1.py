@@ -1,3 +1,3 @@
-nombre = "Nicolas"
-apellido = "Senger"
+nombre = "Juan"
+apellido = "TIROPOLIS"
 

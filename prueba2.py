@@ -1,2 +1,2 @@
-nombre = "Juan"
-apellido = "Senger"
+nombre = "Nicolas"
+apellido = "Tiropolis"
